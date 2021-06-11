@@ -78,5 +78,5 @@ void Example(int x, int y) {
 
 ## Reports
 * Upload or link (e.g. Google Drive files with share setting)
-* Midterm: [Report](Reports/Midterm.pdf)
-* Final: [Report](Reports/Final.pdf), [Demo video](Reports/Demo.mp4)
+* Midterm: [Report](reports/2018110660_정환석_중간보고서.pdf)
+* Final: [Report](reports/2018110660_정환석_결과보고서.pdf), [Demo video](Reports/Demo.mp4)
