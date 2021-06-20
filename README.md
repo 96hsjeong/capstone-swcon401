@@ -67,16 +67,13 @@ Python, Colab, Pytorch
 
 
 ## Results
-* Main code, table, graph, comparison, ...
-* Web link
+### 모델별 F1-Score
+|     Model   | No Aug | Aug V1 | Aug V2 | Aug V3 |
+|-------------|--------|--------|--------|--------|
+|    VGGNet   |0.713845|0.832381|0.651829|0.846327|
+|  GoogLeNet  |0.928199|<b>0.956804</b>|0.852320|0.893094|
+|    ResNet   |0.805398|0.918766|0.877319|0.801247|
 
-``` C++
-void Example(int x, int y) {
-   ...  
-   ... // comment
-   ...
-}
-```
 
 ## Conclusion
 
